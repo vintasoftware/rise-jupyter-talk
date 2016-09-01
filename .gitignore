@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac files
+.DS_Store
+
+# virtualenv files
+/venv/
+/env/
+/venv2/
+/env2/
+
+# Jupyter Notebook
+/.ipynb_checkpoints/
+
+# Generated files
+/*.slides.html
